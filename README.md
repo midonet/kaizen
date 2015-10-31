@@ -1,6 +1,6 @@
 # Kaizen 改善
 
-This is a script to be used by field service personnel to run a couple of checks on a MidoNet OpenStack cloud.
+This is a script to run a couple of checks on a MidoNet OpenStack cloud.
 
 After uploading the script to a controller or a compute node you can run it manually.
 
