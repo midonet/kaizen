@@ -1,4 +1,4 @@
-# kaizen
+# Kaizen 改善
 check a MidoNet OpenStack cloud for common configuration mistakes
 
 This is a script to be used by field service personnel to run a couple of checks on a MidoNet OpenStack cloud.
